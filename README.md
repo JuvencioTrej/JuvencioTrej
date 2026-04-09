@@ -24,8 +24,8 @@ Beyond corporate systems, I am a builder at heart. I love creating practical web
 `Laravel` `MVC Architecture` `RESTful APIs` `Git`
 
 ## 📈 My GitHub Stats
-![Juvencio's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuvencioTrej&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuvencioTrej&layout=compact&theme=tokyonight)
+![Juvencio's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuvencioTrej&show_icons=true&theme=tokyonight&v=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuvencioTrej&layout=compact&theme=tokyonight&v=1)
 
 ---
 *"Bridging the gap between complex AI models and seamless user experiences."*
